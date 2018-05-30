@@ -1,0 +1,1 @@
+..\torch\lua sample.lua cv-noto-emoji-3-512\lm_lstm_epoch50.00_0.2512.t7 -primetext "<svg width=\"128\" height=\"128\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">" -length 10000
